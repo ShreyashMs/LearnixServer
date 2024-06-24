@@ -1,0 +1,17 @@
+[33mcommit 61134086af78c577cca31aea1684c228530c2a3b[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: ShreyashMs <145094664+ShreyashMs@users.noreply.github.com>
+Date:   Mon Jun 24 15:45:35 2024 +0530
+
+    Add project files excluding node_modules and updated mongo string
+
+[33mcommit ce3f33180dbe815c9b123c65d26acda64417fab7[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: ShreyashMs <145094664+ShreyashMs@users.noreply.github.com>
+Date:   Sat Jun 22 01:06:55 2024 +0530
+
+    Add project files excluding node_modules
+
+[33mcommit 0d5d377302abc10fd1a567c73d8d6f7fb76b4220[m
+Author: ShreyashMs <145094664+ShreyashMs@users.noreply.github.com>
+Date:   Sat Jun 22 01:01:18 2024 +0530
+
+    Add initial project files
